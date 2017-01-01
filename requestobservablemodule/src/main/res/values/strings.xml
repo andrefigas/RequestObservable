@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Request Observable</string>
+    <string name="error_connection">Fail on connection</string>
+    <string name="actions_retry">retry</string>
+</resources>
